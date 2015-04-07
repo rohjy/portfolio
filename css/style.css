@@ -1,0 +1,78 @@
+@import url("../css/androidicons.css");
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Caption);
+
+#header{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+	font-size: 40px;
+}
+
+.content{
+	background: url("../image/background-resize2.jpg");
+	background-position: center 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-position: 50% 50%;
+	background-size: cover;
+	text-shadow: 1px 1px #000;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited{
+	color: black;
+}
+
+
+.content h1{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 60px;
+	font-weight: 700;
+	text-align: center;
+	color: black;
+}
+
+.content h4{
+	margin-top: 40px;
+	margin-bottom: 35px;
+	font-size: 30px;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-weight: 200;
+	text-align: center;
+	color: black;
+}
+
+.icon-menu{
+	text-align: center;
+	font-family: 'PT Sans Caption', sans-serif;
+	margin:0 auto;
+	vertical-align: top;
+}
+
+
+.icon-menu ul{
+	list-style: none;
+	display: inline-block;
+	padding: 0px;
+
+}
+
+.icon-menu ul li {
+	float: left;
+	position: relative;
+	text-align: center;
+}
+
+.icon-menu h5{
+	text-align: center;
+	font-size: 20px;
+}
+
+
